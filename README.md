@@ -1,35 +1,46 @@
-# iMemory - Rede Social de Memórias Coletivas
+# Getting Started with Create React App
 
-Bem-vindo ao **iMemory**, uma rede social inovadora desenvolvida para compartilhar e preservar memórias coletivas! Este projeto permite que os usuários publiquem suas memórias (textos, imagens e mais), visualizem o feed de memórias compartilhadas por outros e interajam em uma comunidade global.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Descrição do Projeto
+## Available Scripts
 
-O iMemory é uma aplicação web construída com **React**, utilizando a biblioteca **Material-UI (MUI)** para uma interface moderna e responsiva. A ideia central é criar um espaço onde as pessoas possam registrar momentos significativos e conectá-los a uma narrativa coletiva. O projeto está em fase inicial e será expandido com funcionalidades como autenticação, upload de mídia e interações sociais.
+In the project directory, you can run:
 
-## Tecnologias Utilizadas
+### `npm start`
 
-- **Frontend**:
-  - [React](https://reactjs.org/) - Biblioteca para construção de interfaces de usuário.
-  - [Material-UI (MUI)](https://mui.com/) - Componentes prontos para uma UI elegante e personalizável.
-  - [TypeScript](https://www.typescriptlang.org/) - Para tipagem estática e melhor manutenção do código.
-- **Ferramentas**:
-  - [Git](https://git-scm.com/) - Controle de versão.
-  - [GitHub](https://github.com/) - Hospedagem do repositório.
-  - [Node.js](https://nodejs.org/) - Ambiente de execução JavaScript.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Pré-requisitos
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Antes de executar o projeto, certifique-se de ter instalado:
+### `npm test`
 
-- [Node.js](https://nodejs.org/) (versão 14.x ou superior)
-- [npm](https://www.npmjs.com/) (geralmente vem com Node.js)
-- [Git](https://git-scm.com/) (para clonagem do repositório)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Como Configurar e Executar o Projeto
+### `npm run build`
 
-Siga os passos abaixo para configurar o projeto localmente:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/leodigory/imemory.git
-   cd imemory
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
