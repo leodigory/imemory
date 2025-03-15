@@ -1,35 +1,53 @@
-# iMemory - Rede Social de Memórias Coletivas
+# 🌍 iMemory - Rede Social de Memórias Coletivas com Validação Automatizada
 
-Bem-vindo ao **iMemory**, uma rede social inovadora desenvolvida para compartilhar e preservar memórias coletivas! Este projeto permite que os usuários publiquem suas memórias (textos, imagens e mais), visualizem o feed de memórias compartilhadas por outros e interajam em uma comunidade global.
+![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Badge](https://img.shields.io/badge/Tecnologias-React%2C%20TypeScript%2C%20Firebase%2C%20PostgreSQL-blue)
+![Badge](https://img.shields.io/badge/Licença-MIT-green)
 
-## Descrição do Projeto
+Bem-vindo ao **iMemory**, uma plataforma inovadora que transforma memórias coletivas em um legado digital interativo e validado em tempo real. 🌟
 
-O iMemory é uma aplicação web construída com **React**, utilizando a biblioteca **Material-UI (MUI)** para uma interface moderna e responsiva. A ideia central é criar um espaço onde as pessoas possam registrar momentos significativos e conectá-los a uma narrativa coletiva. O projeto está em fase inicial e será expandido com funcionalidades como autenticação, upload de mídia e interações sociais.
+## 🚀 Sobre o Projeto
 
-## Tecnologias Utilizadas
+O **iMemory** é uma rede social que combina tecnologia, inteligência artificial e engajamento comunitário para registrar e validar eventos cotidianos ou extraordinários. A plataforma permite que comunidades locais e globais compartilhem suas histórias, criando um mosaico dinâmico de eventos geolocalizados. Além disso, o iMemory promove a transparência, a preservação cultural e a resposta rápida a crises humanitárias e ambientais.
 
-- **Frontend**:
-  - [React](https://reactjs.org/) - Biblioteca para construção de interfaces de usuário.
-  - [Material-UI (MUI)](https://mui.com/) - Componentes prontos para uma UI elegante e personalizável.
-  - [TypeScript](https://www.typescriptlang.org/) - Para tipagem estática e melhor manutenção do código.
-- **Ferramentas**:
-  - [Git](https://git-scm.com/) - Controle de versão.
-  - [GitHub](https://github.com/) - Hospedagem do repositório.
-  - [Node.js](https://nodejs.org/) - Ambiente de execução JavaScript.
+### 🌟 Funcionalidades Principais
 
-## Pré-requisitos
+- **🌐 Mosaico Interativo:** Visualize eventos em um mapa geolocalizado com zoom e opções de visualização 3D.
+- **🤖 IA de Verificação:** Eventos são validados automaticamente com base em múltiplas fontes e usuários.
+- **📸 Contribuição do Usuário:** Faça upload de fotos, vídeos e textos para compartilhar suas memórias.
+- **📝 Resumo Automático:** A IA gera narrativas dinâmicas em tempo real com base nos dados coletados.
+- **🎮 Navegação Gamificada:** Explore eventos por categorias como meio ambiente, igualdade de gênero e emergências, ganhando badges por participação.
 
-Antes de executar o projeto, certifique-se de ter instalado:
+## 🛠️ Tecnologias Utilizadas
 
-- [Node.js](https://nodejs.org/) (versão 14.x ou superior)
-- [npm](https://www.npmjs.com/) (geralmente vem com Node.js)
-- [Git](https://git-scm.com/) (para clonagem do repositório)
+- **Frontend:** React, TypeScript, Mapbox
+- **Backend:** Firebase (para mídia), PostgreSQL (para relações de eventos)
+- **Inteligência Artificial:** GPT-4 (para narrativas), OpenCV (para análise de imagens)
+- **Geolocalização:** Google Maps API ou OpenStreetMap
 
-## Como Configurar e Executar o Projeto
+## 🎨 Visualização do Projeto
 
-Siga os passos abaixo para configurar o projeto localmente:
+Aqui estão algumas capturas de tela ou GIFs que mostram como a plataforma funciona (você pode adicionar imagens ou links para o projeto em funcionamento):
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/leodigory/imemory.git
-   cd imemory
+![Exemplo de Mosaico Interativo](https://via.placeholder.com/800x400.png?text=Mosaico+Interativo)
+![Exemplo de IA de Verificação](https://via.placeholder.com/800x400.png?text=IA+de+Verificação)
+
+## 🌟 Benefícios do iMemory
+
+- **📚 Preservação Cultural:** Memórias coletivas armazenadas de forma interativa e acessível.
+- **🔍 Transparência:** Redução da desinformação através de validação cruzada de informações.
+- **🤝 Engajamento Comunitário:** Conexão entre indivíduos que compartilham espaços comuns.
+- **🌱 Impacto Social e Ambiental:** Promoção de igualdade, sustentabilidade e apoio humanitário.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 📞 Contato
+
+- **Leonardo Araújo Soares** - [GitHub](https://github.com/leodigory) | [Email](01leonardoaraujo@gmail.com)
+- **Equipe do Projeto** - [GitHub](https://github.com/leodigory/imemory)
+
+---
+
+Feito com ❤️ por [Leonardo Araújo Soares](https://github.com/leodigory) e equipe.
